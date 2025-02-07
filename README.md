@@ -11,5 +11,5 @@ Repository contains my final project (practical exam) for Data Scientist certifi
 ## Libraries
 The project has a form of Jupyter Notebook. I used following Python libraries: Pandas, Numpy, Scikit-learn, seaborn, matplotlib.pyplot, missingno.
 
-##Results
+## Results
 After data cleaning, dealing with outliers and visual analysis, two machine learning models were chosen for binary classification. Logistic Regression model was trained as a baseline model, and second approach was Random Forest Classifier. 3 metrics were chosen to evaluate models performance to fully captute nuances of the data: recall, precision and f-1 score. After comparison it turned out that Logistic Regression model performs slightly better, meeting set criteria in all chosen metrics.
